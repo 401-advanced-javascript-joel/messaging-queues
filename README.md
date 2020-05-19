@@ -22,7 +22,10 @@ The delivery API server should expose an HTTP POST route of the format /delivery
 
 ### How to run
 
-- `npm start`
+- `npm start-queue`
+- `npm start-api`
+- `npm start-vendor-01`
+- `npm start-vendor-02`
 
 ### UML
 
