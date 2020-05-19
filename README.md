@@ -29,4 +29,4 @@ The delivery API server should expose an HTTP POST route of the format /delivery
 
 ### UML
 
-![UML 19](https://raw.githubusercontent.com/401-advanced-javascript-joel/messaging-queues/master/assets/lab-19-uml.jpg)
+![UML 19](https://raw.githubusercontent.com/401-advanced-javascript-joel/messaging-queues/master/assets/lab-19-uml-1.jpg)
