@@ -1,0 +1,23 @@
+{
+  "name": "messaging-queues",
+  "version": "1.0.0",
+  "description": "For this lab, you should have four independent applications running on terminal and communicating with one another.",
+  "main": "index.js",
+  "scripts": {
+    "start-queue": "node queue-server.js",
+    "start-api": "node api-server.js",
+    "start-vendor-01": "node vendor-01.js",
+    "start-vendor-02": "node vendor-02.js",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-joel/messaging-queues.git"
+  },
+  "author": "Joel Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-joel/messaging-queues/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-joel/messaging-queues#readme"
+}
